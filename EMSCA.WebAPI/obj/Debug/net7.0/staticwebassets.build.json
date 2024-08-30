@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4/1bQ0QTLxJWWy7nJLXooMwDa4jJce7zbvIliJFO9HU=",
+  "Source": "EMSCA.WebAPI",
+  "BasePath": "_content/EMSCA.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.csproj.AssemblyReference.cache
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.AssemblyInfoInputs.cache
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.AssemblyInfo.cs
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.csproj.CoreCompileInputs.cache
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\bin\Debug\net7.0\EMSCA.Application.deps.json
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\bin\Debug\net7.0\EMSCA.Application.dll
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\bin\Debug\net7.0\EMSCA.Application.pdb
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\bin\Debug\net7.0\EMSCA.Domain.dll
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\bin\Debug\net7.0\EMSCA.Domain.pdb
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.csproj.CopyComplete
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.dll
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\refint\EMSCA.Application.dll
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\EMSCA.Application.pdb
+E:\Project\Dotnet\DotCleanArch\EMSCA.Application\obj\Debug\net7.0\ref\EMSCA.Application.dll
